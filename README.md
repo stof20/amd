@@ -1,2 +1,2 @@
 # amd
-print("kuba je opice)
+kuba je opice
