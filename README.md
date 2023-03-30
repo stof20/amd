@@ -1,2 +1,2 @@
 # amd
-blbost 
+print("kuba je opice)
