@@ -1,2 +1,3 @@
 # amd
-kuba je opice
+Mňam 
+
